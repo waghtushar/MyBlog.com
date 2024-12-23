@@ -29,8 +29,7 @@ Welcome to **MyBlog.com**, a web application for creating and managing blog post
    ```env
    PORT=3000
    MONGODB_URI=your_mongodb_connection_string
-   JWT_SECRET=your_secret_key
-   REACT_APP_API_URL=your_api_url
+   REACT_APP_API_URL=your_api_url [http://localhost:port]
    ```
 4. Start the server:
    ```bash
